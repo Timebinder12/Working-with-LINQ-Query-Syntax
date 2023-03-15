@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\bin\Debug\net6.0\Working with LINQ Query Syntax.exe
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\bin\Debug\net6.0\Working with LINQ Query Syntax.deps.json
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\bin\Debug\net6.0\Working with LINQ Query Syntax.runtimeconfig.json
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\bin\Debug\net6.0\Working with LINQ Query Syntax.dll
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\bin\Debug\net6.0\Working with LINQ Query Syntax.pdb
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.AssemblyInfo.cs
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.dll
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\refint\Working with LINQ Query Syntax.dll
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.pdb
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\Working with LINQ Query Syntax.genruntimeconfig.cache
+C:\Users\shane\source\repos\Working with LINQ Query Syntax\Working with LINQ Query Syntax\obj\Debug\net6.0\ref\Working with LINQ Query Syntax.dll
